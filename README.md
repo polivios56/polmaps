@@ -3,3 +3,5 @@
   [Κυκλικό Νάξου - Ποδηλατική](https://polivios56.github.io/polmaps/Naxos.html)
   
   [Πολύδροσος Παρνασσού - Ποδηλατική](https://polivios56.github.io/polmaps/polydrosos.html)
+
+  [ΚΕΑ 24/11/2026 - Ποδηλατική](https://polivios56.github.io/polmaps/kea.html)
